@@ -1,0 +1,23 @@
+
+.navLinktext{
+    text-decoration: none;
+}
+.kk{
+    border: 1px solid #000;
+}
+.ak{
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content:flex-end;
+}
+.ak NavLink{
+    margin: 30px;
+}
+div#offcanvasNavbar-expand-sm {
+    max-width: 520px;
+}
+.dropdown-menu.show {
+    margin: 8px -60px;
+    text-align: right;
+}

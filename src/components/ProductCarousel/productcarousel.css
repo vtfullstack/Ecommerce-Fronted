@@ -1,0 +1,39 @@
+.imgcarousel {
+  height: 90vh;
+  object-fit: cover;
+  background-repeat: no-repeat;
+  object-fit: cover;
+}
+
+@media only screen and (max-width: 676px) {
+  .imgcarousel {
+    height: 45vh;
+    object-fit: cover;
+    background-repeat: no-repeat;
+    object-fit: cover;
+  }
+}
+@media only screen and (min-width: 677px) {
+  .imgcarousel {
+    height: 50vh;
+    object-fit: cover;
+    background-repeat: no-repeat;
+    object-fit: cover;
+  }
+}
+@media only screen and (min-width: 992px) {
+  .imgcarousel {
+    height: 60vh;
+    object-fit: cover;
+    background-repeat: no-repeat;
+    object-fit: cover;
+  }
+}
+@media only screen and (min-width: 1200px) {
+  .imgcarousel {
+    height: 75vh;
+    object-fit: cover;
+    background-repeat: no-repeat;
+    object-fit: cover;
+  }
+}
